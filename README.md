@@ -15,35 +15,35 @@
 <img src="./Images/Screenshot (733).png"/>
 <h4>4. Cities with Population Larger than 2,000,000:</h4>
 <img src="./Images/Screenshot (734).png"/>
-<p>5.</p>
+<h4>5. Cities Beginning with 'Be' Prefix:</h4>
 <img src="./Images/Screenshot (735).png"/>
 <img src="./Images/Screenshot (736).png"/>
-<p>6.</p>
+<h4>6. Cities with Population Between 500,000-1,000,000:</h4>
 <img src="./Images/Screenshot (737).png"/>
 <img src="./Images/Screenshot (738).png"/>
-<p>7.</p>
+<h4>7. Display Cities Sorted by Name in Ascending Order: </h4>
 <img src="./Images/Screenshot (739).png"/>
-<p>8.</p>
+<h4>8. Most Populated City: </h4>
 <img src="./Images/Screenshot (740).png"/>
-<p>9.</p>
+<h4>9. City Name Frequency Analysis: Supporting Geography Education</h4>
 <img src="./Images/Screenshot (741).png"/>
-<p>10.</p>
+<h4>10. City with the Lowest Population: </h4>
 <img src="./Images/Screenshot (742).png"/>
-<p>11.</p>
+<h4>11. Country with Largest Population: </h4>
 <img src="./Images/Screenshot (743).png"/>
-<p>12.</p>
+<h4>12. Capital of Spain:</h4>
 <img src="./Images/Screenshot (744).png"/>
-<p>13.</p>
+<h4>13. Cities in Europe: </h4>
 <img src="./Images/Screenshot (745).png"/>
-<p>14.</p>
+<h4>14. Average Population by Country: </h4>
 <img src="./Images/Screenshot (746).png"/>
-<p>15.</p>
+<h4>15. Capital Cities Population Comparison: </h4>
 <img src="./Images/Screenshot (747).png"/>
-<p>16.</p>
+<h4>16. Countries with Low Population Density:</h4>
 <img src="./Images/Screenshot (748).png"/>
-<p>17.</p>
+<h4>17. Cities with High GDP per Capita:</h4>
 <img src="./Images/Screenshot (749).png"/>
-<p>18.</p>
+<h4>18. Display Columns with Limit (Rows 31-40): </h4>
 <img src="./Images/Screenshot (750).png"/>
 
 <h3>What I learned</h3>
