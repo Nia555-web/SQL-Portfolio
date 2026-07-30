@@ -4,10 +4,8 @@
 <p>During this week, I explored the fundamentals of SQL and quickly discovered how powerful it is for working with data. Using SQL, I learned how to retrieve, filter, sort, and analyse information stored in databases. To help explain my learning process, I have included step-by-step screenshots that demonstrate each query and explain how it works.</p>
 <h3>Objctive</h3>
 <p>The objective of this project was to develop a strong foundation in SQL by learning how to query databases, manipulate data, and extract meaningful information using a variety of SQL statements. Each exercise built upon the previous one, helping me understand how SQL is used to solve real-world data analysis problems.</p>
-
+<h3></h3>
 <img src="./Images/Screenshot (727).png"/>
-<img src="./Images/Screenshot (728).png"/>
-<img src="./Images/Screenshot (729).png"/>
 <img src="./Images/Screenshot (730).png"/>
 <img src="./Images/Screenshot (731).png"/>
 <img src="./Images/Screenshot (732).png"/>
